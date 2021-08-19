@@ -1,0 +1,1 @@
+This is a beginner project called Google Homepage. In this project I will try to replicate the google homepage. I will update this document when I have completed this project to reflect on what I learned.
